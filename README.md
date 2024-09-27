@@ -1,0 +1,1 @@
+Conducted a comprehensive analysis of ultramarathon race results using Python. Cleaned and preprocessed data, then visualized key variables to identify factors impacting athlete performance. Investigated relationships between athlete characteristics and race results, and explored seasonal trends to understand the influence of external factors.
